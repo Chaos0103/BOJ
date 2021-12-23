@@ -1,5 +1,3 @@
-# 1316번
-
 import sys
 
 n = int(input())
