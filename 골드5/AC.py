@@ -25,3 +25,5 @@ for _ in range(t):
         print('error')
     else:
         print('['+','.join(num)+']')
+
+# 리스트 뒤집기를 계속 하니까 시간초과 걸림
