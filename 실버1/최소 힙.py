@@ -1,28 +1,14 @@
+import sys
 import heapq
-# 수정
 
-def heapsort(iterable):
-    h = []
-    result = []
-    for value in iterable:
-        heapq.heappush(h, -value)
-    for i in range(len(h)):
-        result.append(-heapq.heappop(h))
-    return result
-
-
-n = int(input())
-data = []
-flag = 0
+n = int(sys.stdin.readline())
+heap = []
 for _ in range(n):
-    num = int(input())
+    num = int(sys.stdin.readline())
     if num == 0:
-        if len(data) == 0:
+        try:
+            print(heapq.heappop(heap))
+        except:
             print(0)
-        else:
-            if flag == 1:
-                data = heapsort(data)
-            print(data.pop())
     else:
-        data.append(num)
-        flag = 1
+        heapq.heappush(heap, num)
