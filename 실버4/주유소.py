@@ -12,4 +12,6 @@ while idx < n:
         node = idx
     idx += 1
 
+cnt = sum(l[node:idx])
+result += cost[node] * cnt
 print(result)
