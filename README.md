@@ -1,3 +1,7 @@
+<!-- 
+[](https://www.acmicpc.net/problem/)
+-->
+
 #### 플래티넘 5
 
 - [큐빙](https://www.acmicpc.net/problem/5373)
@@ -21,6 +25,7 @@
 - [키 순서](https://www.acmicpc.net/problem/2458)
 - [특정한 최단 경로](https://www.acmicpc.net/problem/1504)
 - [플로이드](https://www.acmicpc.net/problem/11404)
+- [수 묶기](https://www.acmicpc.net/problem/1744)
 
 #### 골드 5
 
