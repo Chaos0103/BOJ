@@ -4,7 +4,7 @@
 
 #### 플래티넘 5
 
-- [큐빙](https://www.acmicpc.net/problem/5373)
+- [큐빙](https://www.acmicpc.net/problem/5373): [MyCode](/BOJ_Python/Platinum5/5373.py)
 
 #### 골드 1
 
