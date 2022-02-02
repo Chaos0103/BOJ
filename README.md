@@ -6,6 +6,10 @@
 
 - [큐빙](https://www.acmicpc.net/problem/5373)
 
+#### 골드 1
+
+- [행성 터널](https://www.acmicpc.net/problem/2887)
+
 #### 골드 2
 
 - [보석 도둑](https://www.acmicpc.net/problem/1202)
@@ -26,6 +30,8 @@
 - [특정한 최단 경로](https://www.acmicpc.net/problem/1504)
 - [플로이드](https://www.acmicpc.net/problem/11404)
 - [수 묶기](https://www.acmicpc.net/problem/1744)
+- [별자리 만들기](https://www.acmicpc.net/problem/4386)
+- [집합의 표현](https://www.acmicpc.net/problem/1717)
 
 #### 골드 5
 
