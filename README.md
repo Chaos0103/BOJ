@@ -8,43 +8,43 @@
 
 #### 골드 1
 
-- [행성 터널](https://www.acmicpc.net/problem/2887)
+- [행성 터널](https://www.acmicpc.net/problem/2887): [Mycode](/Gold1/2887.py)
 
 #### 골드 2
 
-- [보석 도둑](https://www.acmicpc.net/problem/1202)
-- [플로이드 2](https://www.acmicpc.net/problem/11780)
+- [보석 도둑](https://www.acmicpc.net/problem/1202): [Mycode](/Gold2/1202.py)
+- [플로이드 2](https://www.acmicpc.net/problem/11780): [Mycode](/Gold2/11780.py)
 
 #### 골드 3
 
-- [파티](https://www.acmicpc.net/problem/1238)
+- [파티](https://www.acmicpc.net/problem/1238): [Mycode](/Gold3/1238.py)
 
 #### 골드 4
 
-- [네트워크 연결](https://www.acmicpc.net/problem/1922)
-- [단어 수학](https://www.acmicpc.net/problem/1339)
-- [도시 분할 계획](https://www.acmicpc.net/problem/1647)
-- [최소 스패닝 트리](https://www.acmicpc.net/problem/1197)
-- [카드 정렬하기](https://www.acmicpc.net/problem/1715)
-- [키 순서](https://www.acmicpc.net/problem/2458)
-- [특정한 최단 경로](https://www.acmicpc.net/problem/1504)
-- [플로이드](https://www.acmicpc.net/problem/11404)
-- [수 묶기](https://www.acmicpc.net/problem/1744)
-- [별자리 만들기](https://www.acmicpc.net/problem/4386)
-- [집합의 표현](https://www.acmicpc.net/problem/1717)
+- [네트워크 연결](https://www.acmicpc.net/problem/1922): [Mycode](/Gold4/1922.py)
+- [단어 수학](https://www.acmicpc.net/problem/1339): [Mycode](/Gold4/1339.py)
+- [도시 분할 계획](https://www.acmicpc.net/problem/1647): [Mycode](/Gold4/1647.py)
+- [최소 스패닝 트리](https://www.acmicpc.net/problem/1197): [Mycode](/Gold4/1197.py)
+- [카드 정렬하기](https://www.acmicpc.net/problem/1715): [Mycode](/Gold4/1715.py)
+- [키 순서](https://www.acmicpc.net/problem/2458): [Mycode](/Gold4/2458.py)
+- [특정한 최단 경로](https://www.acmicpc.net/problem/1504): [Mycode](/Gold4/1504.py)
+- [플로이드](https://www.acmicpc.net/problem/11404): [Mycode](/Gold4/11404.py)
+- [수 묶기](https://www.acmicpc.net/problem/1744): [Mycode](/Gold4/1744.py)
+- [별자리 만들기](https://www.acmicpc.net/problem/4386): [Mycode](/Gold4/4386.py)
+- [집합의 표현](https://www.acmicpc.net/problem/1717): [Mycode](/Gold4/1717.py)
 
 #### 골드 5
 
-- [AC](https://www.acmicpc.net/problem/5430)
-- [공유기 설치](https://www.acmicpc.net/problem/2110)
-- [두 용액](https://www.acmicpc.net/problem/2470)
-- [뱀](https://www.acmicpc.net/problem/3190)
-- [연구소](https://www.acmicpc.net/problem/14502)
-- [인구 이동](https://www.acmicpc.net/problem/16234)
-- [최단경로](https://www.acmicpc.net/problem/1753)
-- [최소비용 구하기](https://www.acmicpc.net/problem/1916)
-- [치킨 배달](https://www.acmicpc.net/problem/15686)
-- [톱니바퀴](https://www.acmicpc.net/problem/14891)
+- [AC](https://www.acmicpc.net/problem/5430): [Mycode](/Gold5/5430.py)
+- [공유기 설치](https://www.acmicpc.net/problem/2110): [Mycode](/Gold5/2110.py)
+- [두 용액](https://www.acmicpc.net/problem/2470): [Mycode](/Gold5/2470.py)
+- [뱀](https://www.acmicpc.net/problem/3190): [Mycode](/Gold5/3190.py)
+- [연구소](https://www.acmicpc.net/problem/14502): [Mycode](/Gold5/14502.py)
+- [인구 이동](https://www.acmicpc.net/problem/16234): [Mycode](/Gold5/16234.py)
+- [최단경로](https://www.acmicpc.net/problem/1753): [Mycode](/Gold5/1753.py)
+- [최소비용 구하기](https://www.acmicpc.net/problem/1916): [Mycode](/Gold5/1916.py)
+- [치킨 배달](https://www.acmicpc.net/problem/15686): [Mycode](/Gold5/15686.py)
+- [톱니바퀴](https://www.acmicpc.net/problem/14891): [Mycode](/Gold5/14891.py)
 
 #### 실버 1
 
