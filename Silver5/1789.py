@@ -1,9 +1,8 @@
 n = int(input())
-
-num = 0
-Sum = 0
-while Sum <= n:
+num = 1
+result = 0
+while result <= n:
+    result += num
     num += 1
-    Sum += num
 
-print(num-1)
+print(num-2)
