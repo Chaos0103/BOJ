@@ -1,11 +1,12 @@
 n = int(input())
-data = [int(input()) for _ in range(n)]
+lopes = [int(input()) for _ in range(n)]
 
-data.sort()
+lopes.sort(reverse=True)
 
-result = 0
-for w in data:
-    result = max(result, w*n)
-    n -= 1
+result = lopes[0]
+cnt = 1
+for lope in lopes:
+    result = max(result, lope * cnt)
+    cnt += 1
 
 print(result)
