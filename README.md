@@ -65,6 +65,7 @@
 - [카드 구매하기](https://www.acmicpc.net/problem/11052): [MyCode](/Silver1/11052.py)
 - [토마토](https://www.acmicpc.net/problem/7576): [MyCode](/Silver1/7576.py)
 - [트리 순회](https://www.acmicpc.net/problem/1991): [MyCode](/Silver1/1991.py)
+- [포도주 시식](https://www.acmicpc.net/problem/2156): [MyCode](/Silver1/2156.py)
 
 #### 실버 2
 
