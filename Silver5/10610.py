@@ -1,13 +1,14 @@
-n = list(input())
-n.sort(reverse=True)
-
+str_num = list(input())
 num = 0
-for i in n:
-    num += int(i)
 
-if num % 3 != 0 or '0' not in n:
+if '0' not in str_num:
     print(-1)
 else:
-    print(''.join(n))
+    for n in str_num:
+        num += int(n)
 
-# 3의 배수는 각 가리의 합이 3의 배수이다
+    if num % 3 == 0:
+        str_num.sort(reverse=True)
+        print(''.join(str_num))
+    else:
+        print(-1)
