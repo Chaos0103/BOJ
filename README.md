@@ -70,7 +70,6 @@
 
 - [DFS와 BFS](https://www.acmicpc.net/problem/1260): [MyCode](/Silver2/1260.py)
 - [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053): [MyCode](/Silver2/11053.py)
-- [동전 0](https://www.acmicpc.net/problem/11047): [MyCode](/Silver2/11047.py)
 - [연결 요소의 개수](https://www.acmicpc.net/problem/11724): [MyCode](/Silver2/11724.py)
 - [잃어버린 괄호](https://www.acmicpc.net/problem/1541): [MyCode](/Silver2/1541.py)
 - [최대 힙](https://www.acmicpc.net/problem/11279): [MyCode](/Silver2/11279.py)
@@ -78,6 +77,7 @@
 - [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352): [MyCode](/Silver2/18352.py)
 - [회의실 배정](https://www.acmicpc.net/problem/1931): [MyCode](/Silver2/1931.py)
 - [나이트의 이동](https://www.acmicpc.net/problem/7562): [MyCode](/Silver2/7562.py)
+- [연속합](https://www.acmicpc.net/problem/1912): [MyCode](/Silver2/1912.py)
 
 #### 실버 3
 
@@ -95,6 +95,7 @@
 - [안테나](https://www.acmicpc.net/problem/18310): [MyCode](/Silver3/18310.py)
 - [피보나치 함수](https://www.acmicpc.net/problem/1003): [MyCode](/Silver3/1003.py)
 - [퇴사](https://www.acmicpc.net/problem/14501): [MyCode](/Silver3/14501.py)
+- [동전 0](https://www.acmicpc.net/problem/11047): [MyCode](/Silver3/11047.py)
 
 #### 실버 4
 
