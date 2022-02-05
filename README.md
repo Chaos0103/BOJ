@@ -9,6 +9,7 @@
 #### 골드 1
 
 - [행성 터널](https://www.acmicpc.net/problem/2887): [Mycode](/Gold1/2887.py)
+- [구간 합 구하기](https://www.acmicpc.net/problem/2042): [Mycode](/Gold1/2042.py)
 
 #### 골드 2
 
@@ -18,6 +19,7 @@
 #### 골드 3
 
 - [파티](https://www.acmicpc.net/problem/1238): [Mycode](/Gold3/1238.py)
+- [저울](https://www.acmicpc.net/problem/2437): [Mycode](/Gold3/2437.py)
 
 #### 골드 4
 
@@ -48,6 +50,8 @@
 - [치킨 배달](https://www.acmicpc.net/problem/15686): [Mycode](/Gold5/15686.py)
 - [톱니바퀴](https://www.acmicpc.net/problem/14891): [Mycode](/Gold5/14891.py)
 - [토마토](https://www.acmicpc.net/problem/7569): [Mycode](/Gold5/7569.py)
+- [센서](https://www.acmicpc.net/problem/2212): [Mycode](/Gold5/2212.py)
+- [N번째 큰 수](https://www.acmicpc.net/problem/2075): [Mycode](/Gold5/2075.py)
 
 #### 실버 1
 
