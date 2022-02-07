@@ -2,26 +2,26 @@
 [](https://www.acmicpc.net/problem/): [MyCode]()
 -->
 
-#### 플래티넘 5
+### 플래티넘 5
 
 - [큐빙](https://www.acmicpc.net/problem/5373): [MyCode](/Platinum5/5373.py)
 
-#### 골드 1
+### 골드 1
 
 - [행성 터널](https://www.acmicpc.net/problem/2887): [Mycode](/Gold1/2887.py)
 - [구간 합 구하기](https://www.acmicpc.net/problem/2042): [Mycode](/Gold1/2042.py)
 
-#### 골드 2
+### 골드 2
 
 - [보석 도둑](https://www.acmicpc.net/problem/1202): [Mycode](/Gold2/1202.py)
 - [플로이드 2](https://www.acmicpc.net/problem/11780): [Mycode](/Gold2/11780.py)
 
-#### 골드 3
+### 골드 3
 
 - [파티](https://www.acmicpc.net/problem/1238): [Mycode](/Gold3/1238.py)
 - [저울](https://www.acmicpc.net/problem/2437): [Mycode](/Gold3/2437.py)
 
-#### 골드 4
+### 골드 4
 
 - [네트워크 연결](https://www.acmicpc.net/problem/1922): [Mycode](/Gold4/1922.py)
 - [단어 수학](https://www.acmicpc.net/problem/1339): [Mycode](/Gold4/1339.py)
@@ -37,7 +37,7 @@
 - [아기 상어](https://www.acmicpc.net/problem/16236): [Mycode](/Gold4/16236.py)
 - [주사위 굴리기](https://www.acmicpc.net/problem/14499): [Mycode](/Gold4/14499.py)
 
-#### 골드 5
+### 골드 5
 
 - [AC](https://www.acmicpc.net/problem/5430): [Mycode](/Gold5/5430.py)
 - [공유기 설치](https://www.acmicpc.net/problem/2110): [Mycode](/Gold5/2110.py)
@@ -53,7 +53,7 @@
 - [센서](https://www.acmicpc.net/problem/2212): [Mycode](/Gold5/2212.py)
 - [N번째 큰 수](https://www.acmicpc.net/problem/2075): [Mycode](/Gold5/2075.py)
 
-#### 실버 1
+### 실버 1
 
 - [감시 피하기](https://www.acmicpc.net/problem/18428): [MyCode](/Silver1/18428.py)
 - [경로 찾기](https://www.acmicpc.net/problem/11403): [MyCode](/Silver1/11403.py)
@@ -70,8 +70,10 @@
 - [토마토](https://www.acmicpc.net/problem/7576): [MyCode](/Silver1/7576.py)
 - [트리 순회](https://www.acmicpc.net/problem/1991): [MyCode](/Silver1/1991.py)
 - [포도주 시식](https://www.acmicpc.net/problem/2156): [MyCode](/Silver1/2156.py)
+- [안전 영역](https://www.acmicpc.net/problem/2468): [MyCode](/Silver1/2468.py)
+- [영역 구하기](https://www.acmicpc.net/problem/2583): [MyCode](/Silver1/2583.py)
 
-#### 실버 2
+### 실버 2
 
 - [DFS와 BFS](https://www.acmicpc.net/problem/1260): [MyCode](/Silver2/1260.py)
 - [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053): [MyCode](/Silver2/11053.py)
@@ -84,7 +86,7 @@
 - [나이트의 이동](https://www.acmicpc.net/problem/7562): [MyCode](/Silver2/7562.py)
 - [연속합](https://www.acmicpc.net/problem/1912): [MyCode](/Silver2/1912.py)
 
-#### 실버 3
+### 실버 3
 
 - [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988): [MyCode](/Silver3/15988.py)
 - [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095): [MyCode](/Silver3/9095.py)
@@ -102,7 +104,7 @@
 - [퇴사](https://www.acmicpc.net/problem/14501): [MyCode](/Silver3/14501.py)
 - [동전 0](https://www.acmicpc.net/problem/11047): [MyCode](/Silver3/11047.py)
 
-#### 실버 4
+### 실버 4
 
 - [2+1 세일](https://www.acmicpc.net/problem/11508): [MyCode](/Silver4/11508.py)
 - [국영수](https://www.acmicpc.net/problem/10825): [MyCode](/Silver4/10825.py)
@@ -118,7 +120,7 @@
 - [카드](https://www.acmicpc.net/problem/11652): [MyCode](/Silver4/11652.py)
 - [통계학](https://www.acmicpc.net/problem/2108): [MyCode](/Silver4/2108.py)
 
-#### 실버 5
+### 실버 5
 
 - [30](https://www.acmicpc.net/problem/10610): [MyCode](/Silver5/10610.py)
 - [그룹 단어 체커](https://www.acmicpc.net/problem/1316): [MyCode](/Silver5/1316.py)
