@@ -103,6 +103,7 @@
 - [피보나치 함수](https://www.acmicpc.net/problem/1003): [MyCode](/Silver3/1003.py)
 - [퇴사](https://www.acmicpc.net/problem/14501): [MyCode](/Silver3/14501.py)
 - [동전 0](https://www.acmicpc.net/problem/11047): [MyCode](/Silver3/11047.py)
+- [수들의 합 2](https://www.acmicpc.net/problem/2003): [MyCode](/Silver3/2003.py)
 
 ### 실버 4
 
@@ -119,6 +120,7 @@
 - [주유소](https://www.acmicpc.net/problem/13305): [MyCode](/Silver4/13305.py)
 - [카드](https://www.acmicpc.net/problem/11652): [MyCode](/Silver4/11652.py)
 - [통계학](https://www.acmicpc.net/problem/2108): [MyCode](/Silver4/2108.py)
+- [소수 찾기](https://www.acmicpc.net/problem/1978): [MyCode](/Silver4/1978.py)
 
 ### 실버 5
 
@@ -141,3 +143,4 @@
 - [최소공배수](https://www.acmicpc.net/problem/1934): [MyCode](/Silver5/1934.py)
 - [캠핑](https://www.acmicpc.net/problem/4796): [MyCode](/Silver5/4796.py)
 - [폴리오미노](https://www.acmicpc.net/problem/1343): [MyCode](/Silver5/1343.py)
+- [올림픽](https://www.acmicpc.net/problem/8979): [MyCode](/Silver5/8979.py)
