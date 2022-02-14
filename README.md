@@ -85,6 +85,7 @@
 - [회의실 배정](https://www.acmicpc.net/problem/1931): [MyCode](/Silver2/1931.py)
 - [나이트의 이동](https://www.acmicpc.net/problem/7562): [MyCode](/Silver2/7562.py)
 - [연속합](https://www.acmicpc.net/problem/1912): [MyCode](/Silver2/1912.py)
+- [슬라임 합치기](https://www.acmicpc.net/problem/14241): [MyCode](/Silver2/14241.py)
 
 ### 실버 3
 
