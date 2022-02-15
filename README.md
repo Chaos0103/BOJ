@@ -36,6 +36,7 @@
 - [집합의 표현](https://www.acmicpc.net/problem/1717): [Mycode](/Gold4/1717.py)
 - [아기 상어](https://www.acmicpc.net/problem/16236): [Mycode](/Gold4/16236.py)
 - [주사위 굴리기](https://www.acmicpc.net/problem/14499): [Mycode](/Gold4/14499.py)
+- [미세먼지 안녕!](https://www.acmicpc.net/problem/17144): [Mycode](/Gold4/17144.py)
 
 ### 골드 5
 
