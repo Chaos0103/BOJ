@@ -20,6 +20,7 @@
 
 - [파티](https://www.acmicpc.net/problem/1238): [Mycode](/Gold3/1238.py)
 - [저울](https://www.acmicpc.net/problem/2437): [Mycode](/Gold3/2437.py)
+- [과제](https://www.acmicpc.net/problem/13904): [Mycode](/Gold3/13904.py)
 
 ### 골드 4
 
@@ -53,6 +54,7 @@
 - [토마토](https://www.acmicpc.net/problem/7569): [Mycode](/Gold5/7569.py)
 - [센서](https://www.acmicpc.net/problem/2212): [Mycode](/Gold5/2212.py)
 - [N번째 큰 수](https://www.acmicpc.net/problem/2075): [Mycode](/Gold5/2075.py)
+- [치즈](https://www.acmicpc.net/problem/2636): [Mycode](/Gold5/2636.py)
 
 ### 실버 1
 
