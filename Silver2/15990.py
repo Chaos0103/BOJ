@@ -12,3 +12,8 @@ for i in range(4, 100001):
 for _ in range(int(input())):
     n = int(input())
     print(sum(dp[n]) % 1000000009)
+
+'''
+1차원으로 해결 실패
+2차원으로 마지막이 1, 2, 3인 경우를 나누어서 계산
+'''
