@@ -21,6 +21,7 @@
 - [파티](https://www.acmicpc.net/problem/1238): [Mycode](/Gold3/1238.py)
 - [저울](https://www.acmicpc.net/problem/2437): [Mycode](/Gold3/2437.py)
 - [과제](https://www.acmicpc.net/problem/13904): [Mycode](/Gold3/13904.py)
+- [저울](https://www.acmicpc.net/problem/10159): [Mycode](/Gold3/10159.py)
 
 ### 골드 4
 
@@ -38,6 +39,7 @@
 - [아기 상어](https://www.acmicpc.net/problem/16236): [Mycode](/Gold4/16236.py)
 - [주사위 굴리기](https://www.acmicpc.net/problem/14499): [Mycode](/Gold4/14499.py)
 - [미세먼지 안녕!](https://www.acmicpc.net/problem/17144): [Mycode](/Gold4/17144.py)
+- [운동](https://www.acmicpc.net/problem/1956): [Mycode](/Gold4/1956.py)
 
 ### 골드 5
 
@@ -75,6 +77,7 @@
 - [포도주 시식](https://www.acmicpc.net/problem/2156): [MyCode](/Silver1/2156.py)
 - [안전 영역](https://www.acmicpc.net/problem/2468): [MyCode](/Silver1/2468.py)
 - [영역 구하기](https://www.acmicpc.net/problem/2583): [MyCode](/Silver1/2583.py)
+- [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389): [MyCode](/Silver1/1389.py)
 
 ### 실버 2
 
