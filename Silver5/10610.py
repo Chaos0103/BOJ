@@ -1,14 +1,15 @@
-str_num = list(input())
-num = 0
+num = input()
 
-if '0' not in str_num:
+if '0' not in num:
     print(-1)
 else:
-    for n in str_num:
-        num += int(n)
+    sum_value = 0
+    for n in num:
+        sum_value += int(n)
 
-    if num % 3 == 0:
-        str_num.sort(reverse=True)
-        print(''.join(str_num))
+    if sum_value % 3 == 0:
+        num = list(num)
+        num.sort(reverse=True)
+        print(''.join(num))
     else:
         print(-1)
