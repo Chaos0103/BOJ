@@ -1,12 +1,10 @@
 n = int(input())
-lopes = [int(input()) for _ in range(n)]
+weights = [int(input()) for _ in range(n)]
 
-lopes.sort(reverse=True)
+weights.sort(reverse=True)
+max_weight = weights[0]
 
-result = lopes[0]
-cnt = 1
-for lope in lopes:
-    result = max(result, lope * cnt)
-    cnt += 1
+for i in range(n):
+    max_weight = max(max_weight, weights[i] * (i+1))
 
-print(result)
+print(max_weight)
