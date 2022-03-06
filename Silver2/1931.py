@@ -1,15 +1,18 @@
 n = int(input())
-data = [list(map(int, input().split())) for _ in range(n)]
 
-data.sort()
-start, end = data[0]
+datas = []
+for _ in range(n):
+    a, b = map(int, input().split())
+    datas.append((a, b))
+
+datas = sorted(datas, key=lambda x:x[0])
+datas = sorted(datas, key=lambda x:x[1])
+
+start, end = datas[0]
 result = 1
-
 for i in range(1, n):
-    if end <= data[i][0]:
-        start, end = data[i]
+    if end <= datas[i][0]:
+        start, end = datas[i]
         result += 1
-    elif start <= data[i][0] and data[i][1] <= end:
-        start, end = data[i]
 
 print(result)
