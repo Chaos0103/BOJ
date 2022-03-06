@@ -1,16 +1,14 @@
-line = input().split('-')
+datas = input().split('-')
 
-data = []
-
-for d in line:
-    num = 0
-    ldata = d.split('+')
-    for n in ldata:
-        num += int(n)
-    data.append(num)
-
-result = data[0] * 2
-for n in data:
-    result -= n
+result = 0
+for i in range(len(datas)):
+    nums = datas[i].split('+')
+    var = 0
+    for j in range(len(nums)):
+        var += int(nums[j])
+    if i == 0:
+        result = var
+    else:
+        result -= var
 
 print(result)
