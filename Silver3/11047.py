@@ -1,15 +1,11 @@
 n, k = map(int, input().split())
-data = [int(input()) for _ in range(n)]
+coins = [int(input()) for _ in range(n)]
+
+coins.reverse()
 result = 0
 
-data.reverse()
-
-for coin in data:
-    num = k // coin
-    if num > 0:
-        result += num
-        k %= coin
-    if k == 0:
-        break
+for coin in coins:
+    result += k // coin
+    k %= coin
 
 print(result)
