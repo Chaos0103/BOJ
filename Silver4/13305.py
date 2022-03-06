@@ -1,17 +1,17 @@
 n = int(input())
-l = list(map(int, input().split()))
-cost = list(map(int, input().split()))
+line = list(map(int, input().split()))
+oil = list(map(int, input().split()))
 
+head, tail = 1, 0
 result = 0
-node = 0
-idx = 1
-while idx < n:
-    if cost[node] >= cost[idx]:
-        cnt = sum(l[node:idx])
-        result += cost[node] * cnt
-        node = idx
-    idx += 1
 
-cnt = sum(l[node:idx])
-result += cost[node] * cnt
+while head < n:
+    if oil[tail] >= oil[head]:
+        cnt = sum(line[tail:head])
+        result += oil[tail] * cnt
+        tail = head
+    head += 1
+
+cnt = sum(line[tail:head])
+result += oil[tail] * cnt
 print(result)
