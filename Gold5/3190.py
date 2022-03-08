@@ -1,61 +1,50 @@
 from collections import deque
 
-
-def turn(x):
-    global di
-    di += x
-    if di == 4:
-        di = 0
-    elif di == -1:
-        di = 3
-
-
-snack = deque()
-snack.append([1, 1])
-sec = 0
-
 n = int(input())
+data = [[0] * (n+1) for _ in range(n+1)]
 
-apple = []
 k = int(input())
 for _ in range(k):
-    x, y = map(int, input().split())
-    apple.append([x, y])
+    a, b = map(int, input().split())
+    data[a][b] = 1
 
-data = []
+order = []
 l = int(input())
 for _ in range(l):
-    x, c = input().split()
-    data.append([x, c])
+    t, d = input().split()
+    order.append((int(t), d))
 
-dx = [-1, 0, 1, 0]
-dy = [0, 1, 0, -1]
-di = 1
+snack = deque()
+snack.append((1, 1))
+dx = [0, 1, 0, -1]
+dy = [1, 0, -1, 0]
+
+dist = 0
+result = 0
 idx = 0
 while True:
-    sec += 1
-    nx = snack[-1][0] + dx[di]
-    ny = snack[-1][1] + dy[di]
-
+    nx = snack[-1][0] + dx[dist]
+    ny = snack[-1][1] + dy[dist]
+    result += 1
     if nx < 1 or ny < 1 or nx > n or ny > n:
         break
-    if [nx, ny] in snack:
+    if (nx, ny) in snack:
         break
-
-    if [nx, ny] not in apple:
-        snack.popleft()
+    if data[nx][ny] == 1:
+        data[nx][ny] = 0
     else:
-        apple.remove([nx, ny])
-    snack.append([nx, ny])
-
-    if idx != l:
-        if int(data[idx][0]) == sec:
-            if data[idx][1] == 'D':
-                turn(1)
+        snack.popleft()
+    snack.append((nx, ny))
+    if idx < l:
+        if order[idx][0] == result:
+            if order[idx][1] == 'L':
+                dist -= 1
+                if dist == -1:
+                    dist = 3
             else:
-                turn(-1)
+                dist += 1
+                if dist == 4:
+                    dist = 0
             idx += 1
 
-print(sec)
-
-# 먹은 사과를 안지워서 반복적으로 먹음
+print(result)
