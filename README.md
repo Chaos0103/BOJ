@@ -1,7 +1,3 @@
-<!-- 
-[](https://www.acmicpc.net/problem/): [MyCode]()
--->
-
 ### 플래티넘 5
 
 - [큐빙](https://www.acmicpc.net/problem/5373): [MyCode](/Platinum5/5373.py)
@@ -46,7 +42,7 @@
 - [AC](https://www.acmicpc.net/problem/5430): [Mycode](/Gold5/5430.py)
 - [공유기 설치](https://www.acmicpc.net/problem/2110): [Mycode](/Gold5/2110.py)
 - [두 용액](https://www.acmicpc.net/problem/2470): [Mycode](/Gold5/2470.py)
-- [뱀](https://www.acmicpc.net/problem/3190): [Mycode](/Gold5/3190.py)
+- [뱀](https://www.acmicpc.net/problem/3190): [Python](/Gold5/3190.py) / [C++](/Gold5/3190.cpp)
 - [연구소](https://www.acmicpc.net/problem/14502): [Mycode](/Gold5/14502.py)
 - [인구 이동](https://www.acmicpc.net/problem/16234): [Mycode](/Gold5/16234.py)
 - [최단경로](https://www.acmicpc.net/problem/1753): [Mycode](/Gold5/1753.py)
